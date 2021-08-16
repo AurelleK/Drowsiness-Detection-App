@@ -11,3 +11,5 @@ install Maria DB with a Maria DB client for Python Language
 
 in this project, when a driver drowse, we capture automatically his position and car speed and save it into the Maria DB automatically with the corresponding date.
 a SMS is sended automatically to an appropriate personne that we configure the system with his number
+
+To run the code, type `python3 Drowsiness_MainCode.py` in your Raspberry Pi Terminal
